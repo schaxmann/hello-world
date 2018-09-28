@@ -1,8 +1,9 @@
 # hello-world
 Learning to use Git repositories following GitHub tutorial.
 
-Bonsoir!<br>
+Bonsoir,
+
 Breaking my Github virginity following https://guides.github.com/activities/hello-world/.
-I'm 24 and soon to be a full-stack developer.
+I'm 24 and hopefully soon capable of becoming a full-stack developer.
 
 That is all.
